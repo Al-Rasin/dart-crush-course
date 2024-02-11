@@ -15,10 +15,10 @@ include: package:lints/recommended.yaml
 
 # Uncomment the following section to specify additional rules.
 
-linter:
-  rules:
-    # - camel_case_types
-    # - always_specify_types
+# linter:
+#   rules:
+#     - always_declare_return_types
+#     - camel_case_types
 # analyzer:
 #   exclude:
 #     - path/to/excluded/files/**
